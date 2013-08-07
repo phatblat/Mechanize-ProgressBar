@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'mechanize-progressbar'
-  s.version = '0.2.0'
+  s.version = '0.2.1'
   s.authors = ['minrk']
   s.homepage = 'https://github.com/minrk/Mechanize-ProgressBar'
   s.platform = Gem::Platform::RUBY
