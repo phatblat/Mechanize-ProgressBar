@@ -6,7 +6,7 @@ HTTP response only. HTTP requests are not supported.
 == you can do
 script:
     require 'mechanize'
-    require 'mechanize/progressbar'
+    require 'mechanize/progrezzbar'
     agent = Mechanize.new
     agent.progressbar{ agent.get(large_file) }
 
